@@ -134,7 +134,7 @@ li >  input[type="text"] {
 }
 
 /* Edit Task */
-input[type=text] {
+ul li input[type=text] {
   display:none
 }
 
