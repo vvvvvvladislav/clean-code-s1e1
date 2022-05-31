@@ -13,7 +13,7 @@ body {
 .banner img {
   width: 100%;
 }
-.banner .more-inf {
+.banner .more-info {
   font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
 .banner { text-align: center;
 }
 }
-.centered-main-page-element {
+.main-element {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -128,7 +128,7 @@ button.delete img:hover {
 }
 
 /* Completed */
-ul#completed-tasks label {
+ul#complete-tasks label {
   text-decoration: line-through
   color: #888;
 }
