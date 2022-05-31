@@ -108,8 +108,8 @@ label[for="adding-tasks__title"] {
   margin: 0 0 20px;
 }
 
-#adding-tasks__title {
-  width: 318px;
+input#adding-tasks__title {
+    width: 416px;
 }
 
 /* Task list */
